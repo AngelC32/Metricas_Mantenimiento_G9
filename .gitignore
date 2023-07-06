@@ -1,15 +1,15 @@
 ### Java ###
 # Compiled class file
-*.class
+#*.class
 
 # Log file
-*.log
+#*.log
 
-*.mwb.bak
+#*.mwb.bak
 build/
 nbbuild/
 dist/
 nbdist/
-nbactions.xml
-nb-configuration.xml
-config.properties
+#nbactions.xml
+#nb-configuration.xml
+#config.properties
